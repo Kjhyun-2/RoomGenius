@@ -9,21 +9,22 @@
 1. [📖 About](#-about)
 3. [🛠 Features](#-features)
 4. [🎥 Demo](#-demo)
-5. [Team](#team)
-6. [Install](#install)
-7. [Requirements](#requirements)
-8. [Difference](#difference)
-9. [AI](#ai)
-10. [FullStack](#fullstack)
+5. [✨ Service](#-Service)
+6. [Team](#team)
+7. [Install](#install)
+8. [Requirements](#requirements)
+9. [Difference](#difference)
+10. [AI](#ai)
+11. [FullStack](#fullstack)
    	- [Front-End](#front-end)
    	- [Back-End](#back-end)
-11. [기대효과](#기대효과 )
-12. [WorkFlow](#-workflow)
+12. [기대효과](#기대효과 )
+13. [WorkFlow](#-workflow)
 ---
    
 ## 🏡 AI 기반 개인 맞춤형 인테리어 디자인 플랫폼 
 
-해당 프로젝트는 2024학년도 1학기 캡스톤 디자인 프로젝트 입니다.
+해당 프로젝트는 2024학년도 2학기 캡스톤 디자인 프로젝트 입니다.
 
 ### [Mainpage]
 
@@ -54,7 +55,6 @@ https://github.com/user-attachments/assets/c5ff8baf-8d9d-416d-94fe-123eb0fe0c17
       <img width="330" src="https://github.com/user-attachments/assets/7a0c1d5f-3aa8-4082-933f-e8edbc084854" alt="이미지투원본">
       <br>
       <strong>이미지 원본</strong>
-    </td>
     <td align="center">
       <img width="330" alt="이미지투결과" src="https://github.com/user-attachments/assets/7a50e314-50fa-4c5d-a4c8-ba141ee8421e">
       <br>
@@ -84,10 +84,46 @@ https://github.com/user-attachments/assets/678f76a9-7f95-4c8f-a18e-a2cb9efe93a6
 -----------------------------------------------------------------------
 ### [inpainting을 통한 방 이미지 생성]
 
-
 https://github.com/user-attachments/assets/6460d9ae-ac98-4432-aa74-1dcded53cb7b
 
-                                 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="330" src="https://github.com/user-attachments/assets/53209525-6b48-4b5f-9a18-0a123cf53cdc" alt="이미지 원본">
+      <br>
+      <strong>이미지 원본</strong>
+    </td>
+    <td align="center">
+      <img width="330" src="https://github.com/user-attachments/assets/d96d0bdb-8fbf-47db-a76e-037b789e2767" alt="마스크 이미지">
+      <br>
+      <strong>마스크 이미지</strong>
+    </td>
+    <td align="center">
+      <img width="330" alt="이미지투결과" src="https://github.com/user-attachments/assets/c42b81cb-b114-4efb-a7ac-f846d5f5533e" alt="생성된 결과">
+      <br>
+      <strong>생성된 결과</strong>
+    </td>
+  </tr>
+</table>
+프롬프트 : dining table made of glass
+
+## ✨ Service
+- 프로젝트 저장 기능 : 생성된 인테리어 스타일이 사용자가 마음에 드는 경우에는 "내 프로젝트"에 저장할 수 있습니다.
+- 공유 프로젝트 기능 : 다른 사용자가 생성한 다양한 인테리어 이미지를 확인하고 해당 디자인을 생성하기 위해 작성된 프롬프트를 공유하거나 참고함으로써 새로운 아이디어를 얻고 자신만의 창의적인 인테리어를 구상할 수 있습니다.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="1024" src="https://github.com/user-attachments/assets/4eab29ba-fd73-42a9-ae22-40a4f3c5ab96" alt="MyProject">
+      <br>
+      <strong>MyProject</strong>
+    <td align="center">
+      <img width="1024" src="https://github.com/user-attachments/assets/cac7015a-4402-489c-abd9-d0d2787e6d56" alt="Interior Gallery">
+      <br>
+      <strong>Interior Gallery</strong>
+    </td>
+  </tr>
+</table>
+
 ## Team
 
 HaHaHa
@@ -102,7 +138,6 @@ coach
 |Name|Department|Contact|
 |---|---|---|
 | Sung Hoon Lim | Hallym Univ (Prof.) |shlim@hallym.ac.kr|
-
 
 ## Install
 
